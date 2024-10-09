@@ -1,0 +1,5 @@
+# From Zero to Hero: gRPC in .NET
+
+gRPC, which stands for gRPC Remote Procedure Calls, is a high-performance remote procedure call framework developed by Google. It has quickly grown in popularity and is among the top three approaches to building APIs, not only in .NET but across all programming languages, alongside REST and GraphQL. Featuring Protocol Buffers, bi-directional streaming, and integrated authentication, gRPC stands out as a powerful and widely adopted framework, particularly for internal service communication. Major companies including Google, Netflix, Square, and Cisco employ gRPC, and it is also a part of the Cloud Native Computing Foundation. With strong first-party support in .NET, mastering gRPC is essential for building scalable, efficient applications. In this course, Irina Scurtu will guide you from the fundamentals of gRPC to advanced strategies for developing and deploying gRPC applications. 
+
+[Detail](https://eduitfree.com/courses/from-zero-to-hero-grpc-in-net)
